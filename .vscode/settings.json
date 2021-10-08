@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.dependency.showMembers": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/rajesh.ramachandran/NewWorkspace/javaSFAccountMerge/sfPartner.jar",
+        "/Users/rajesh.ramachandran/NewWorkspace/javaSFAccountMerge/force-wsc-53.0.0-uber.jar",
+        "/Users/rajesh.ramachandran/Downloads/commons-csv-1.9.0.jar"
+    ]
+}
